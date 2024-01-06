@@ -204,3 +204,5 @@ export function createSupabaseBrowserClient() {
 The project is primarily based on this [course](https://egghead.io/courses/build-a-twitter-clone-with-the-next-js-app-router-and-supabase-19bebadb), which includes topics such as querying the database, setting up row-level security, optimistic updates, and many more. Although it utilizes the auth-helpers package, it can be easily modified using the contents of this project.
 
 I would also like to give credit to the providers of the resources used in this project.
+#   l e a r n i n g m o r e n e x t j s  
+ 
